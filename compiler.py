@@ -12,7 +12,7 @@ def main():
     program = open("./teste-1.vks", "r")
 
     print("Welcome to the Ragnarök compile for the language Vikings")
-    print("init compile the file", program.name)
+    print("Init compile the file", program.name)
 
     content_program = program.readlines()
     lexical = Lexical_Analaser(

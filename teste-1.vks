@@ -10,7 +10,7 @@ meioa{
 	  c =  m - b;
 		stund( c > 0) {
       c = c - 1;  
-      rita(“Eh menor”);
+      rita(“Eh menor”); 
   } ella {
 	  rita(“Nao eh menor”);
   }

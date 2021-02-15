@@ -11,7 +11,7 @@ class Lexical_Analaser:
 
     def analyse(self):
         print("Init analyse the lexical part")
-        # print(self.program[0])
+        print(self.program[0])
 
         for line in self.program:
             # print(line)
